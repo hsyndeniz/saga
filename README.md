@@ -2,6 +2,8 @@
 
 This repository contains two main programs, **AMM** and **Conditional Vault**, designed to work together to power a decentralized prediction market on Solana. The **AMM** program facilitates trading, while the **Conditional Vault** program handles the creation, resolution, and management of conditional tokens representing possible outcomes.
 
+![saga](https://github.com/user-attachments/assets/f9b298c9-29ba-48a9-8737-e8508bcd3f0f)
+
 ## Overview
 
 The **Solana Prediction Market** allows users to create prediction markets for any event, trade conditional tokens representing the outcomes, and participate in decentralized speculation using an Automated Market Maker (AMM).
